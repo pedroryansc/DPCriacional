@@ -1,4 +1,4 @@
-package Pacote;
+package singleton;
 
 public class Objeto { // Design pattern: Singleton - Quando preciso de instância única de um objeto
 

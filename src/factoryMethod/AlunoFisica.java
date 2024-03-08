@@ -1,4 +1,4 @@
-package pacote2;
+package factoryMethod;
 
 public class AlunoFisica implements Aluno {
 
